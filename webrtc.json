@@ -1,0 +1,19 @@
+{
+  "openAPIMode": "mqtt",
+  "openAPIUrl": "openapi.tuyacn.com",
+
+  "clientId": "",
+  "secret": "",
+
+  "authMode": "easy",
+
+  "easy": {
+    "uId": ""
+  },
+
+  "auth": {
+    "code": ""
+  },
+
+  "deviceId": ""
+}
