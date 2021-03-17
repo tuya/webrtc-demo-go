@@ -32,5 +32,5 @@ The WebRTC SDK helps developers quickly access IPC services.
 
 You can get Tuya developer technical support in the following ways:
 
--Tuya Help Center: [https://support.tuya.com/zh/help](https://support.tuya.com/zh/help)
--Tuya technical ticket platform: [https://iot.tuya.com/council](https://iot.tuya.com/council)
+- Tuya Help Center: [https://support.tuya.com/zh/help](https://support.tuya.com/zh/help)
+- Tuya technical ticket platform: [https://iot.tuya.com/council](https://iot.tuya.com/council)
